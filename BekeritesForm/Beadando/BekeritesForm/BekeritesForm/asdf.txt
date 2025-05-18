@@ -1,0 +1,24 @@
++ Game(int[][] field)
++ Game()
++ Game(IFileManager fileManager)
++ Game(int size, string player1Name, string player1Color, string player2Name, string player2Color)
++ LoadGame(IFileManager fileManager)
++ SaveGame(string path)
++ Clear(int size)
++ Step(int x1, int y1, int x2, int y2)
++ PlayerColor(int playerId)
++ EndGame(): bool
++ Winner(): string
+
+- DetectAndFillRectangle(int playerId)
+- IsPerimeterFilled(int topRow, int leftCol, int bottomRow, int rightCol, int playerId): bool
+- FillRectangle(int topRow, int leftCol, int bottomRow, int rightCol, int playerId)
+
+- Points: int {get}
+- Color: Color {get}
+- Name: string {get}
+
++ Player(int points, Color color, string name)
++ AddToPoint()
++ ClearPoints()
++ ToString(): string

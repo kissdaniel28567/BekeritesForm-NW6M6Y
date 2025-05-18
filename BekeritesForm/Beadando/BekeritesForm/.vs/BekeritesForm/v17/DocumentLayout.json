@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\beadando\\bekeritesform\\bekeritesform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|solutionrelative:bekeritesform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF50651-9AC1-4A99-B028-FAD143CF4DE3}|GameMechanicsMsTest\\GameMechanicsMsTest.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\beadando\\bekeritesform\\gamemechanicsmstest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF50651-9AC1-4A99-B028-FAD143CF4DE3}|GameMechanicsMsTest\\GameMechanicsMsTest.csproj|solutionrelative:gamemechanicsmstest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518B34D-9B55-48FC-A5B7-6135FF8BCD39}|GameMechanics\\GameMechanics.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\beadando\\bekeritesform\\gamemechanics\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518B34D-9B55-48FC-A5B7-6135FF8BCD39}|GameMechanics\\GameMechanics.csproj|solutionrelative:gamemechanics\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\bekeritesform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|solutionrelative:bekeritesform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\beadando\\bekeritesform\\bekeritesform\\playerselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|solutionrelative:bekeritesform\\playerselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518B34D-9B55-48FC-A5B7-6135FF8BCD39}|GameMechanics\\GameMechanics.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\beadando\\bekeritesform\\gamemechanics\\classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518B34D-9B55-48FC-A5B7-6135FF8BCD39}|GameMechanics\\GameMechanics.csproj|solutionrelative:gamemechanics\\classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\beadando\\bekeritesform\\bekeritesform\\fileselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448AE47-02FC-48BA-9715-6F84F70205A2}|BekeritesForm\\BekeritesForm.csproj|solutionrelative:bekeritesform\\fileselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\Form1.cs",
+              "RelativeDocumentMoniker": "BekeritesForm\\Form1.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\Form1.cs [Design]",
+              "RelativeToolTip": "BekeritesForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:23:54.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerSelect.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\PlayerSelect.cs",
+              "RelativeDocumentMoniker": "BekeritesForm\\PlayerSelect.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\PlayerSelect.cs",
+              "RelativeToolTip": "BekeritesForm\\PlayerSelect.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:59:45.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\GameMechanicsMsTest\\Test.cs",
+              "RelativeDocumentMoniker": "GameMechanicsMsTest\\Test.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\GameMechanicsMsTest\\Test.cs",
+              "RelativeToolTip": "GameMechanicsMsTest\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:46:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\Form1.cs",
+              "RelativeDocumentMoniker": "BekeritesForm\\Form1.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\Form1.cs",
+              "RelativeToolTip": "BekeritesForm\\Form1.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAiwP8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:30:44.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\GameMechanics\\Classes\\Game.cs",
+              "RelativeDocumentMoniker": "GameMechanics\\Classes\\Game.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\GameMechanics\\Classes\\Game.cs",
+              "RelativeToolTip": "GameMechanics\\Classes\\Game.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:36:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\GameMechanics\\Classes\\Player.cs",
+              "RelativeDocumentMoniker": "GameMechanics\\Classes\\Player.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\GameMechanics\\Classes\\Player.cs",
+              "RelativeToolTip": "GameMechanics\\Classes\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:34:52.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileSelect.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\FileSelect.cs",
+              "RelativeDocumentMoniker": "BekeritesForm\\FileSelect.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\Beadando\\BekeritesForm\\BekeritesForm\\FileSelect.cs",
+              "RelativeToolTip": "BekeritesForm\\FileSelect.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:35:51.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
